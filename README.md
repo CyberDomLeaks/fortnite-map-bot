@@ -3,7 +3,7 @@
 Put the map.py in a folder and run it.
 
 Requirements:
-time
-requests
-pillow
+time,
+requests,
+pillow,
 os
